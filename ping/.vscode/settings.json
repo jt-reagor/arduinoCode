@@ -1,0 +1,15 @@
+{
+    "AVR.reporter.arguments": [
+        "-C"
+    ],
+    "AVR.source.compiler": "/usr/bin/avr-c++",
+    "AVR.programmer.tool": "/usr/bin/avrdude",
+    "AVR.source.libraries": [],
+    "AVR.device.type": "atmega328p",
+    "AVR.programmer.type": "arduino",
+    "AVR.programmer.port": "/dev/ttyACM0",
+    "AVR.device.frequency": 16000000,
+    "files.associations": {
+        "delay.h": "c"
+    }
+}
