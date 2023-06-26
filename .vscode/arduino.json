@@ -1,5 +1,5 @@
 {
-    "sketch": "ping.ino",
+    "sketch": "pirTest\\pirTest.ino",
     "board": "arduino:avr:uno",
     "port": "COM3"
 }
